@@ -22,7 +22,7 @@ iframe{
 
 div.contenu {
     /*background: url(cover_overlay.png) no-repeat center/100% 100%,url(cover.jpg) no-repeat center/cover;*/
-    background: url("images/fond3.jpeg") no-repeat center/cover;
+    background: url("fond3.jpeg") no-repeat center/cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
